@@ -1,0 +1,5 @@
+.venv/
+pyvenv.cfg
+.idea/
+__pycache__/
+.DS_Store
