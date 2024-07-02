@@ -23,7 +23,3 @@ def lines():
 @app.route("/line/<line_id>")
 def line(line_id):
     return [line for line in bus_data.lines if line["lineId"] == line_id]
-
-
-def start_app():
-    return app
