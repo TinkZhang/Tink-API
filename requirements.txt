@@ -15,4 +15,4 @@ packaging==24.1
 pytz==2024.1
 referencing==0.35.1
 rpds-py==0.18.1
-Werkzeug==3.0.3
+Werkzeug==2.0.3
