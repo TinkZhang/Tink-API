@@ -6,7 +6,6 @@ api = Api(
     title='Tink\'s API',
     version='1.0',
     description='These APIs are designed for my hobby projects',
-    doc='/docs/'
     # All API metadatas
 )
 
